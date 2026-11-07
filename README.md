@@ -105,3 +105,39 @@ job market data to identify in-demand skills.
 
 </div>
 
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ranjita8945">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<h3 align="center">💜 Always Learning | Always Building | Always Growing</h3>
+
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+<h3>✨ "Building today, innovating tomorrow." ✨</h3>
+
+<p>Thanks for visiting my GitHub profile! 💜</p>
+
+</div>
+
