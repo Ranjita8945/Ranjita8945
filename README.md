@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ranjita%20Dandgulkar&fontSize=40&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=AI+%26+ML+Student;Building+deployed+ML+projects;Open+to+internships" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ranjita8945&color=blue" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ranjita+Dandgulkar+%F0%9F%91%8B;Aspiring+Machine+Learning+Engineer;AI+%7C+ML+%7C+Python+Enthusiast;Building+Intelligent+Solutions" />
+</h3>
