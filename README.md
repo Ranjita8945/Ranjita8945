@@ -31,3 +31,59 @@
 <p>
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,jupyter,git,github,vscode" />
 </p>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 Production RAG System</h3>
+<div align="center">
+<p>
+A Retrieval-Augmented Generation system featuring
+document retrieval, semantic search, and contextual responses.
+</p>
+<p><strong>Python | LangChain | Embeddings | Vector Database</strong></p>
+<a href="Ranjita8945">View Project →</a>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">📊 AI Data Analyst</h3>
+<div align="center">
+<p>
+An interactive application for uploading datasets,
+automating data cleaning, and performing data analytics.
+</p>
+<p><strong>Python | Streamlit | Pandas | SQL</strong></p>
+<a href="YOUR_REPOSITORY_LINK">View Project →</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">⚡ Real-Time Job Market Pipeline</h3>
+<div align="center">
+<p>
+A data pipeline that collects, cleans, and analyzes
+job market data to identify in-demand skills.
+</p>
+<p><strong>Python | Pandas | SQL | Apache Airflow</strong></p>
+<a href="YOUR_REPOSITORY_LINK">View Project →</a>
+</div>
+</td>
+</tr>
+</table>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ranjita8945&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjita8945&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
