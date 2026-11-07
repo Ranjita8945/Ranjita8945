@@ -80,10 +80,10 @@ job market data to identify in-demand skills.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ranjita8945&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Ranjita8945&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjita8945&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ranjita8945&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
