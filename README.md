@@ -87,3 +87,21 @@ job market data to identify in-demand skills.
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ranjita8945&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
+
+<h2 align="center">🐍 My Contribution Graph</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ranjita8945/Ranjita8945/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ranjita8945/Ranjita8945/output/github-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Ranjita8945/Ranjita8945/output/github-snake.svg">
+</picture>
+
+</div>
+
