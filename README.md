@@ -46,7 +46,7 @@ An interactive application for uploading datasets,
 automating data cleaning, and performing data analytics.
 </p>
 <p><strong>Python | Streamlit | Pandas | SQL</strong></p>
-<a href="YOUR_REPOSITORY_LINK">View Project →</a>
+<a href="https://github.com/Ranjita8945/AI-Data-Analyst">View Project →</a>
 </div>
 </td>
 </tr>
